@@ -1,0 +1,41 @@
+.group{
+    width: 1500px;
+    padding: 150px 100px 0px;
+    margin: auto;
+    
+}
+
+
+.one{
+    width: 370px;
+    height: 200px;
+    padding-right: 20px; 
+    overflow: hidden;
+    float: left;
+    margin-bottom: -30px;
+}
+p{
+    font-size: 15px;
+    color: #888;
+    line-height: 1.38em
+}
+h5{
+    margin-top: 0px;
+    font-size: 17px;
+    margin-bottom: 7px;
+    color: #303030;
+    line-height: 1.38em
+}
+.about-text{
+    width: 300px;
+    float: left;
+   
+}
+.about-img{
+    float: left;
+    width:56px;
+    height: 45px;
+}
+.clr{
+    clear:left;
+}
